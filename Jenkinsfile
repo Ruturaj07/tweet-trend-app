@@ -1,5 +1,5 @@
 def registry = 'https://devopsorgin.jfrog.io'
-def imageName = 'devopsorgin.jfrog.io/artifactory/devopsorgin-docker-local/tweet-trend-app'
+def imageName = 'devopsorgin.jfrog.io/devopsorgin-docker-local/tweet-trend-app'
 def version   = '2.1.2'
 
 pipeline {
