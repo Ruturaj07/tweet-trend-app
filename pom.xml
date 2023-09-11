@@ -8,8 +8,8 @@
 		<version>2.2.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.valaxy</groupId>
-	<artifactId>demo-workshop</artifactId>
+	<groupId>com.dev-project</groupId>
+	<artifactId>tweet-trend-app</artifactId>
 	<version>2.1.2</version>
 	<name>demo-workshop</name>
 	<packaging>jar</packaging>
