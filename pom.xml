@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dev-project</groupId>
-	<artifactId>tweet-trend-app</artifactId>
+	<artifactId>tweet</artifactId>
 	<version>2.1.2</version>
-	<name>demo-workshop</name>
+	<name>tweet</name>
 	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 
